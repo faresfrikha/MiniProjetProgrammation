@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1549360760 source:d:\cours\1ere année civil\mini projet programmation\gestion de fiche de paie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+	<time.h>
+	<ctype.h>
+

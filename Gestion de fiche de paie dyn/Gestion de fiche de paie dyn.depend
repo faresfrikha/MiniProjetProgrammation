@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1549360737 source:d:\cours\1ere année civil\mini projet programmation\gestion de fiche de paie dyn\fonction.c
+	"fonction.h"
+	"malloc.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1544907374 d:\cours\1ere année civil\mini projet programmation\gestion de fiche de paie dyn\fonction.h
+	"stdio.h"
+	"structure.h"
+
+1544458070 d:\cours\1ere année civil\mini projet programmation\gestion de fiche de paie dyn\structure.h
+
+1545003746 source:d:\cours\1ere année civil\mini projet programmation\gestion de fiche de paie dyn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+	<time.h>
+	<ctype.h>
+	"fonction.h"
+

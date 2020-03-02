@@ -1,0 +1,16 @@
+	Liste_des_fiches_de_paie
+
+Numero_Fiche: 1_12_18
+Numero_CNSS: 2
+Nom: f
+Prenom: f
+Grade: f
+Salaire: 1.000
+Mois 12
+Numero_Fiche: 3_1_19
+Numero_CNSS: 1234
+Nom: fares
+Prenom: frikha
+Grade: etud
+Salaire: 1100.000
+Mois 1
